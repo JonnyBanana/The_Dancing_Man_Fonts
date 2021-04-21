@@ -9,7 +9,7 @@
 
 </BR>
 
-The fonts are available in .ttf &amp; .otf format
+The fonts are available in the "Fonts" folder, and are in .ttf &amp; .otf format
 
 <br>
 
