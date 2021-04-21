@@ -5,7 +5,7 @@ Cipher from "The Adventure of the Dancing Men", <br>The Return of Sherlock Holme
   
  
 
-![Alt text](https://github.com/JonnyBanana/Mining_Stuff/blob/main/Stickers/sticker.jpg)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Dancing_Man_Fonts/main/IMG/%23Dancing_Men_Alphabet.jpg)
 
 </BR>
 
