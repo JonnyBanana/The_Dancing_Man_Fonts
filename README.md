@@ -41,7 +41,7 @@ I take advantage of it to share with all those like me who loved the story,<BR> 
 </BR>
 
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Dancing_Man_Fonts/main/IMG/%23Dancing_Men_Alphabet.jpg)
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Dancing_Man_Fonts/main/Cypher/fa629a766fd626642474e1acde6976e3.jpg)
 
 </BR>
 
