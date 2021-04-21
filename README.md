@@ -9,7 +9,7 @@
 
 </BR>
 
-The fonts ara available in .ttf &amp; .otf format
+The fonts are available in .ttf &amp; .otf format
 
 <br>
 
@@ -36,3 +36,10 @@ And so, as usual, if you want a decent job you have to do it yourself ...
 And here we are ...
 <br>
 I take advantage of it to share with all those like me who loved the story,<BR> and want to use the fonts for their own purposes.
+  
+
+</BR>
+
+The fonts ara available in .ttf &amp; .otf format
+
+<br>
