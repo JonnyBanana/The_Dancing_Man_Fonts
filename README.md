@@ -56,5 +56,5 @@ I could have inserted only one character (dancing man) for the space, <br>
 but I would have respected the philosophy of the cipher with less rigor, <br>
 and I therefore opted to make the cipher even more "old school". <br>
 Let us remember in fact that at the dawn (and beyond) of cryptography spaces <br>
-were not contemplated, and sentences were (and still are, when manual systems are used) <br>
+were not contemplated, and sentences were (and still are, when some manual systems are used) <br>
 encrypted without the use of spaces.<br>
