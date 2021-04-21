@@ -13,7 +13,11 @@ The fonts ara available in .ttf &amp; .otf format
 
 <br>
 
-I was looking for the fonts of the cipher of "The Dancing Man" by Sherlock Holmes, and looking online I found some examples, such as the one on this page: http: //gutenberg.osdn.jp/font/en.html
+I was looking for the fonts of the cipher of "The Dancing Man" by Sherlock Holmes, <BR>and looking online I found some examples, such as the one on this page: 
+
+<br>
+
+http: //gutenberg.osdn.jp/font/en.html
 
 <br>
 
