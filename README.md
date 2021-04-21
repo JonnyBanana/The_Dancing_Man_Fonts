@@ -45,7 +45,7 @@ The following tools were used to create the fonts:
 <br>
 -Photoshop<br>
 -Calligraphr<br>
--A Scanner(a Smartpone it's also good)<br>
+-A Scanner (a Smartpone it's also good)<br>
 -Ink. Markers<br>
 
 <br>
