@@ -23,7 +23,7 @@ Testing the fonts, however, i immediately noticed that something was wrong, <br>
 <br>
 so I wonder what the fuck did they do it for?
 <br>
-So I look for others, and I find them, but as usual on the web it's all a clone of a clone of a clone ...
+So I look for others, and I find them, but as usual on the web it's all a clone of a clone ...
 <br>
 Fuck!
 <br>
