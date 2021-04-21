@@ -19,7 +19,7 @@ http://gutenberg.osdn.jp/font/en.html
 
 Testing the fonts, however, i immediately noticed that something was wrong, <br>in fact the cipher is not respected at all ...
 <br>
-So I wonder what the fuck did they do it for?
+I wonder what the fuck did they do it for?
 <br>
 So I look for others, and I find them, but as usual on the web it's all a clone of a clone ...
 <br>
