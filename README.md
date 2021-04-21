@@ -40,6 +40,13 @@ I take advantage of it to share with all those like me who loved the story,<BR> 
 
 </BR>
 
-The fonts ara available in .ttf &amp; .otf format
+The following tools were used to create the fonts:
+
+<br>
+
+-Photoshop<br>
+-Calligraphr<br>
+-A Scanner<br>
+-Ink. Markers<br>
 
 <br>
