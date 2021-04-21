@@ -40,6 +40,11 @@ I take advantage of it to share with all those like me who loved the story,<BR> 
 
 </BR>
 
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Dancing_Man_Fonts/main/IMG/%23Dancing_Men_Alphabet.jpg)
+
+</BR>
+
 The following tools were used to create the fonts:
 <br>
 -Photoshop<br>
