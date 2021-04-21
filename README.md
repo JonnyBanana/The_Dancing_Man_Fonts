@@ -41,9 +41,7 @@ I take advantage of it to share with all those like me who loved the story,<BR> 
 </BR>
 
 The following tools were used to create the fonts:
-
 <br>
-
 -Photoshop<br>
 -Calligraphr<br>
 -A Scanner<br>
